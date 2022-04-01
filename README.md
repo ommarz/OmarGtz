@@ -8,9 +8,9 @@
 ```
 me = Omar {
   pronouns:  'He' | 'Him',
-  code: ['Python']
-  tools: ['Azure']
-  areas: ['Cloud']
+  code: ['Python'],
+  tools: ['Azure'],
+  areas: ['Cloud'],
   challenge: ['Improve my coding skills to develop sites and tools to improve optimization on small and medium business']
   }
 ```
