@@ -1,8 +1,8 @@
 # Hello there! 👋 I'm Omar Gutiérrez
 ***
-#### Engineering Student 👨‍💻
+#### Cybersecurity Specialist in progress 👨‍💻
 #### Entrepreneur 🚀
-#### CBI @ UAM Azcapotzalco 🏫
+#### Systems Engineering @UTEL Universidad 🏫
 ***
 ## More about me:
 ```
@@ -11,11 +11,10 @@ me = Omar {
   code: ['Python'], ['HTML'], ['CSS'], ['Javascript']
   tools: ['Azure'],
   areas: ['Cloud'], ['Web Development']
-  challenge: ['Improve my coding skills to develop sites and tools to improve optimization on small and medium business']
+  challenge: ['Improve my skills and apply them in cybersecurity to keep information as safe as possible']
   }
 ```
-###### Currently getting Software Developer skills with Microverse.
-  
+#### Currently getting prepared with WeSecure Community
 ###### Already certified on Azure Fundamentals
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/89239670/161171757-42bfcefa-f73c-4ddf-b52e-3b3bb7432549.png)
 
