@@ -10,7 +10,7 @@ me = Omar {
   pronouns:  'He' | 'Him'
   code: ['Python'], ['HTML'], ['CSS'], ['Javascript']
   tools: ['Azure'],
-  areas: ['Cloud'], ['Web Development']
+  areas: ['Cloud'], ['Web Development'], [Cybersecurity]
   challenge: ['Improve my skills and apply them in cybersecurity to keep information as safe as possible']
   }
 ```
